@@ -3,6 +3,6 @@ Authors
 
 Instaloader is written by
 
-- Alexander Graf (@aandergr)
+- Ashok kanuka(@aandergr)
 - André Koch-Kramer (@Thammus)
 - Lars Lindqvist (@e5150)
